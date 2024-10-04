@@ -6,10 +6,10 @@
     "author": "Cre8tion <ljl1997@gmail.com>",
     "license": "MIT",
     "dependencies": {
-        "crawlee": "^3.10.0",
+        "crawlee": "^3.11.5",
         "eslint": "^8.57.0",
         "eslint-config-prettier": "^9.1.0",
-        "playwright": "^1.44.0",
+        "playwright": "^1.46.1",
         "prettier": "^3.3.3",
         "ts-node": "^10.9.2",
         "typescript": "^5.4.5"
@@ -21,7 +21,7 @@
         "prettify": "yarn prettier . --write"
     },
     "devDependencies": {
-        "@types/node": "^20.12.12",
+        "@types/node": "^20.16.10",
         "@typescript-eslint/eslint-plugin": "^6.21.0",
         "@typescript-eslint/parser": "^6.21.0"
     },
