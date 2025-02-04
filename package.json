@@ -12,7 +12,7 @@
         "playwright": "^1.50.1",
         "prettier": "^3.4.2",
         "ts-node": "^10.9.2",
-        "typescript": "^5.4.5"
+        "typescript": "^5.7.3"
     },
     "scripts": {
         "build": "npx tsc",
